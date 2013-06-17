@@ -12,3 +12,5 @@ Schiebeschalter mit Pulldown Widerstand an Pin 5
 ![alt tag](http://weegs.blog.com/files/2013/06/DSC00578.jpg)
 
 ![alt tag](http://weegs.blog.com/files/2013/06/veloRueckLicht_Steckplatine.jpg)
+
+http://youtu.be/sRyiwXEMDZM
